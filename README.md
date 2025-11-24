@@ -14,7 +14,7 @@ Twitchからチャットデータを入手して
 そのコメントの中に設定したキーワードが含まれていたら  
 その部分を別の音声に変えるものです。
 
-[ここ](https://github.com/mlvier/ComKey/releases)から最新版をダウンロードするだけで使えます。
+[ここ](https://github.com/mlvier/ComKey/releases)から最新版の「comkey.exe」をダウンロードするだけで使えます。
 
 
 ## ＝＝＝　使い方　＝＝＝
