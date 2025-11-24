@@ -42,7 +42,6 @@ Twitchからチャットデータを入手して
 
 ・データ収集は一切行っておりません
 
-・棒読みちゃんは https://chi.usamimi.info/Program/Application/BouyomiChan/ からダウンロードできますたぶん
 
 
 
