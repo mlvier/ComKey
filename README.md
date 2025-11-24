@@ -35,12 +35,14 @@ Twitchからチャットデータを入手して
 
 ＝＝＝　注意　＝＝＝
 
-・「twitch_token.json」の中身は流出しないように気を付けてください。
+・「twitch_token.json」の中身は流出しないように気を付けてください
 
 
 ＝＝＝　補足　＝＝＝
 
-・データ収集は一切行っておりません。
+・データ収集は一切行っておりません
+
+・棒読みちゃんは https://chi.usamimi.info/Program/Application/BouyomiChan/ からダウンロードできますたぶん
 
 
 
