@@ -8,7 +8,7 @@ Twitch のチャットを解析し、コメント内に設定したキーワー�
 ## 1. 重要事項
 
 本ツールの利用により発生したいかなる問題についても、作者は責任を負いません。  
-質問や不具合報告などがあれば、Twitter（[@vier_ml](https://twitter.com/vier_ml)）までご連絡ください。
+質問や不具合報告などがあれば、Twitter（[@mlvier](https://twitter.com/mlvier)）までご連絡ください。
 
 ---
 
